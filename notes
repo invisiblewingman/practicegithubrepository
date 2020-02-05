@@ -1,0 +1,7 @@
+html comments are formatted as <!-- comment goes here -->
+
+for most files you'll need a folder to contain both the html (actual website code, content, and structure) as well as
+the css (formatting, font, kerning rules) files
+
+C:\Users\Blade\Desktop\WebDev\Git\bin\bash.exe
+I'm not sure how to set the shell to save bash as default, but the filepath to start bash in-window is above ^^
